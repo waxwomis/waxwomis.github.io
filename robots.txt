@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waxwomis.github.io/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/app/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/assets/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/css/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/includes/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/item/sitemap.html.gz
+Sitemap: https://waxwomis.github.io/src/sitemap.html.gz
